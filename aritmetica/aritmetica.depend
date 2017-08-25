@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503640523 source:/home/personal/CodeBlocksProjects/CursoProgramacion/aritmetica/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
