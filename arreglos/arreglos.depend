@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510857125 source:/home/personal/CodeBlocksProjects/CProjects/arreglos/main.cpp
+	<iostream>
+	<iomanip>
+
