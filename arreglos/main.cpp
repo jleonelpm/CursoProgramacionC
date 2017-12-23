@@ -3,6 +3,10 @@
 
 using namespace std;
 
+struct Alumnos {
+    //completar
+}alumno;
+
 int main()
 {
     int n; //filas

@@ -6,7 +6,7 @@ struct Numeros{
     int a;
     int b;
     int resultado() { return a+b; }
-} num;
+};
 
 int main()
 {
