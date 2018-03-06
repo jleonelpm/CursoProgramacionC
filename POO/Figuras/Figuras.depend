@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519888489 source:/home/personal/C++Projects/Figuras/main.cpp
+	<iostream>
+	"include/Triangulo.h"
+
+1519917277 /home/personal/C++Projects/Figuras/include/Triangulo.h
+	<cmath>
+
+1519889904 source:/home/personal/C++Projects/Figuras/src/Cuadrilatero.cpp
+	"Cuadrilatero.h"
+
+1519889904 /home/personal/C++Projects/Figuras/include/Cuadrilatero.h
+

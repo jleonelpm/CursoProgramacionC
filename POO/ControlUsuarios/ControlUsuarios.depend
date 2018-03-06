@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1520276709 source:/home/personal/C++Projects/ControlUsuarios/main.cpp
+	<iostream>
+	<string>
+	"Usuario.h"
+
+1520275066 /home/personal/C++Projects/ControlUsuarios/Usuario.h
+	<string>
+
+1520275838 source:/home/personal/C++Projects/ControlUsuarios/Usuario.cpp
+	<iostream>
+	<string>
+	"Usuario.h"
+
